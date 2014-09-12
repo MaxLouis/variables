@@ -1,3 +1,7 @@
+#Max Louis
+#Garden Challenge exercise
+#12/09/14
+
 length = float(input("What is the Length in metres?"))
 width = float(input("What is the Width in metres?"))
 
